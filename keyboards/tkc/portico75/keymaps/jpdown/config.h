@@ -5,3 +5,5 @@
 #undef FORCE_NKRO
 #define FORCE_NKRO
 
+#undef RGB_MATRIX_DEFAULT_ON
+#define RGB_MATRIX_DEFAULT_ON false
